@@ -65,8 +65,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Farnabghosh.hashnode.dev%2Fadd-github-dark-snake-animation-readme&psig=AOvVaw3E1C3sUBay3sXEBup_t9eE&ust=1740985413137000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiHoZrq6osDFQAAAAAdAAAAABAE" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tahzeeb-sh0/tahzeeb-sh0/output/snake.svg" alt="Snake animation" />
 
 ###
