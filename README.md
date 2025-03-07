@@ -59,7 +59,7 @@
   <a href="https://www.instagram.com/tahzeeb_sh?igsh=MXEycDR2OWE5eTJ0cQ==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://www.linkedin.com/in/tahzeeb-shaikh-1b8713284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="35" alt="linkedin logo"  />
+ <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
 </div>
 
