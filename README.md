@@ -1,73 +1,103 @@
-<h2 align="left">Hi there!👋 My name is tahzeeb</h2>
+<!-- Banner -->
+<h1 align="center">👋 Hi, I'm <span style="color:#FF0000;">Tahzeeb Shaikh</span></h1>
+<h3 align="center">🔥 Full-Stack Developer | Flutter Enthusiast | UI/UX Learner 🔥</h3>
 
-###
+<p align="center">
+  <img src="https://media.tenor.com/o4P7N2E1MLkAAAAd/hacker-hacking.gif" height="230"/>
+</p>
+
+---
+
+## 🚀 About Me  
+
+- 🔭 Currently working on **React, Flutter & Backend Projects**  
+- 🌱 Learning **DevOps, System Design & Advanced Flutter**  
+- 💡 Passionate about **Clean UI, Scalable Architecture & Open Source**  
+- 🎯 Goal: Build modern apps that solve real problems  
+- 📫 Reach me: **taizibshaikh34@gmail.com**
+
+---
+
+## 📊 GitHub Analytics  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahzeeb-sh0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahzeeb-sh0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="170" 
+       src="https://github-readme-stats.vercel.app/api?username=tahzeeb-sh0&show_icons=true&theme=highcontrast&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&hide_border=true"/>
+
+  <img height="170" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahzeeb-sh0&layout=compact&theme=highcontrast&title_color=FF0000&text_color=FFFFFF&hide_border=true"/>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🛠️ Tech Stack  
 
-###
+<p align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-</div>
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=js" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react" height="45"/>
+  <img src="https://skillicons.dev/icons?i=flutter" height="45"/>
+  <img src="https://skillicons.dev/icons?i=dart" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java" height="45"/>
 
-###
+  <br/><br/>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <a href="taizibshaikh34@gmail.com " target="">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=html" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
+  <img src="https://skillicons.dev/icons?i=jquery" height="45"/>
+  <img src="https://skillicons.dev/icons?i=php" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+
+  <br/><br/>
+
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=git" height="45"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="45"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="45"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="45"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="mailto:taizibshaikh34@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/tahzeeb_sh?igsh=MXEycDR2OWE5eTJ0cQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+
+  <a href="https://www.instagram.com/tahzeeb_sh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF0000"/>
   </a>
-    <a href="https://www.linkedin.com/in/tahzeeb-shaikh-1b8713284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="">
- <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    </a>
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-</div>
 
-###
+  <a href="https://www.linkedin.com/in/tahzeeb-shaikh-1b8713284/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<img src="https://raw.githubusercontent.com/tahzeeb-sh0/tahzeeb-sh0/output/snake.svg" alt="Snake animation" />
+  <img src="https://img.shields.io/badge/StackOverflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=FF0000"/>
+</p>
 
-###
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tahzeeb-sh0/tahzeeb-sh0/output/snake.svg"/>
+</p>
+
+---
+
+## ⭐ Fun Quote  
+
+> *"Code is like humor. When you have to explain it, it’s bad."*
+
+---
+
+<p align="center">
+  <b>🔥 Thanks for visiting my profile ❤️</b>
+</p>
