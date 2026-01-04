@@ -40,19 +40,13 @@
 <!-- Stats Section -->
 <div style="background:#000000; padding:20px; border-radius:12px; border:1px solid #FF0000;">
 
-## 📊 ACTIVITY LOG :: GitHub Analytics
 
 <div align="center">
 
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=tahzeeb-sh0&show_icons=true&theme=radical&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000&hide_border=true"
-       style="border-radius:10px; box-shadow:0 0 20px #FF0000;" />
-
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahzeeb-sh0&layout=compact&theme=radical&title_color=FF0000&text_color=FFFFFF&bg_color=000000&hide_border=true"
-       style="border-radius:10px; box-shadow:0 0 20px #FF0000;" />
-
-</div>
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tahzeeb-sh0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Tahzeeb-sh0&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahzeeb-sh0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
