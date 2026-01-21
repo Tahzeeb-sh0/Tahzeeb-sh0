@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header with Professional Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=TAHZEEB%20SHAIKH&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Flutter%20Expert%20|%20UI/UX%20Designer&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=TAHZEEB%20SHAIKH&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Flutter%20Expert%20|%20UI/UX%20Designer&descSize=18&descAlignY=10"/>
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=🚀+Building+Scalable+Applications;💡+Turning+Ideas+Into+Reality;🎨+Crafting+Beautiful+User+Experiences" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=🚀+Building+Scalable+Applications;💡+Turning+Ideas+Into+Reality;🎨+Crafting+Beautiful+User+Experiences" alt="Typing Animation"/>
 </p>
 
 <!-- Badge Row -->
