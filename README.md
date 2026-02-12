@@ -199,18 +199,6 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
 <br><strong>Figma</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="Adobe XD" />
-<br><strong>Adobe XD</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-<br><strong>Photoshop</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
-<br><strong>Illustrator</strong>
-</td>
 </tr>
 </table>
 
