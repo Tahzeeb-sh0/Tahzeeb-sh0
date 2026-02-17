@@ -36,7 +36,7 @@ const developer = {
   name: "Tahzeeb Shaikh",
   role: "Full-Stack Developer",
   location: "Mumbai, India 🇮🇳",
-  experience: "2+ Years",
+  experience: "5+ months",
   
   expertise: {
     frontend: ["React", "Flutter", "TypeScript"],
